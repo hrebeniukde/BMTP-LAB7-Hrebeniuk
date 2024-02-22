@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708549816 source:d:\personal data\study\university\1 year\bmtp\bmtp-lab7-hrebeniuk\prj\hrebeniuk-task_7_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
